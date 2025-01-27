@@ -6,13 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Adding a Gallery to Jekyll
-email: your-email@domain.com
+title: Drawer516
+email: 77014520@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  This website is an example on how to use my gallery blog post to add a
-  photo gallery to your blog/website.
+  一个杂货铺，想到什么放什么
 baseurl: "/jekyll-image-gallery-example" # the subpath of your site, e.g. /blog
-url: "//opieters.github.io" # the base hostname & protocol for your site
+url: "//Drawer.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
