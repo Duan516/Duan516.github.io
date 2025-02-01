@@ -10,8 +10,10 @@ title: Drawer516
 email: 77014520@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   一个杂货铺，想到什么放什么
-baseurl: "/jekyll-image-gallery-example" # the subpath of your site, e.g. /blog
-url: "//Drawer.github.io" # the base hostname & protocol for your site
+# baseurl: "/jekyll-image-gallery-example" # the subpath of your site, e.g. /blog
+# url: "//drawer.github.io" # the base hostname & protocol for your site
+baseurl: ""
+url: "//duan516.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
