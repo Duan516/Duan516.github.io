@@ -9,7 +9,7 @@
 title: Drawer516
 email: 77014520@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  一个杂货铺，想到什么放什么
+  杂货铺
 # baseurl: "/jekyll-image-gallery-example" # the subpath of your site, e.g. /blog
 # url: "//drawer.github.io" # the base hostname & protocol for your site
 baseurl: ""

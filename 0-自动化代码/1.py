@@ -28,6 +28,6 @@ def 复制并重命名图片(文件夹路径):
                 print(f"已复制并重命名: {文件名}{扩展名} -> {新文件名}")
 
 # 使用示例
-文件夹路径 = "E:/personal website/2.0 20250125/Drawer.github.io/assets/photography/上海"  # 替换为你的文件夹路径
+文件夹路径 = "E:/personal website/4.0 20250201/Duan516.github.io/assets/photography/苏杭"  # 替换为你的文件夹路径
 复制并重命名图片(文件夹路径)
 
