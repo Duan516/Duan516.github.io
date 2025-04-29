@@ -1,0 +1,45 @@
+picture_path: 北京平谷
+preview:
+  filename: LRN
+  original: LRN.jpg
+  thumbnail: LRN-thumbnail.jpg
+  title: LRN
+  caption: Re-Construct/"Den djoef" by I-Illusions
+pictures:
+- filename: LRH
+  original: LRH.jpg
+  thumbnail: LRH-thumbnail.jpg
+  title: LRH
+  caption: Re-Construct/"Den djoef" by I-Illusions
+- filename: XRJ
+  original: XRJ.jpg
+  thumbnail: 东山堂-thumbnail.jpg
+  title: 东山堂
+  caption: Re-Construct/"Den djoef" by I-Illusions
+- filename: 昭明书院
+  original: 昭明书院.jpg
+  thumbnail: 昭明书院-thumbnail.jpg
+  title: 昭明书院
+  caption: Re-Construct/"Den djoef" by I-Illusions
+- filename: 断桥
+  original: 断桥.jpg
+  thumbnail: 断桥-thumbnail.jpg
+  title: 断桥
+  caption: Re-Construct/"Den djoef" by I-Illusions
+- filename: 枫桥
+  original: 枫桥.jpg
+  thumbnail: 枫桥-thumbnail.jpg
+  title: 枫桥
+  caption: Re-Construct/"Den djoef" by I-Illusions
+- filename: 虎丘山
+  original: 虎丘山.jpg
+  thumbnail: 虎丘山-thumbnail.jpg
+  title: 虎丘山
+  caption: Re-Construct/"Den djoef" by I-Illusions
+- filename: 西湖
+  original: 西湖.jpg
+  thumbnail: 西湖-thumbnail.jpg
+  title: 西湖
+  caption: Re-Construct/"Den djoef" by I-Illusions
+
+
