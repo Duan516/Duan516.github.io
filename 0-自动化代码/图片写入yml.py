@@ -29,6 +29,6 @@ def read_image_names(folder_path, output_file):
     print(f"图片名称已写入到 {output_file}")
 
 # 示例用法
-folder_path = r"E:\personal website\4.0 20250201\Duan516.github.io\assets\photography\苏杭"  # 替换为你的图片文件夹路径
-output_file = r"E:\personal website\4.0 20250201\Duan516.github.io\assets\photography\苏杭\file.txt"  # 替换为输出文件路径
+folder_path = r"E:\personal website\4.0 20250201\Duan516.github.io\assets\photography\北京平谷"  # 替换为你的图片文件夹路径
+output_file = r"E:\personal website\4.0 20250201\Duan516.github.io\assets\photography\北京平谷\file.txt"  # 替换为输出文件路径
 read_image_names(folder_path, output_file)
