@@ -1,6 +1,7 @@
 github_users:
   - torvalds
   - alshedivat
+  -Duan516
 
 repo_description_lines_max: 2
 
@@ -12,3 +13,4 @@ github_repos:
   - FortAwesome/Font-Awesome
   - mathjax/MathJax
   - jpswalsh/academicons
+  - Duan516
