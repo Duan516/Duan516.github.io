@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@shopify/prettier-plugin-liquid": "1.4.0",
+    "prettier": "3.1.1"
+  },
+  "dependencies": {
+    "image-size": "^2.0.2",
+    "lightgallery": "^2.9.0"
+  },
+  "name": "drawer-dsx",
+  "description": "<div align=\"center\">",
+  "version": "1.0.0",
+  "main": "generate-gallery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

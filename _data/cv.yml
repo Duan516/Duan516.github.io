@@ -1,0 +1,93 @@
+- title: 基本信息 General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: 段书轩
+    - name: E-mail
+      value: 770134520@qq.com
+    - name: Wechat
+      value: dsx19927524954
+
+- title: 教育经历 Education
+  type: time_table
+  contents:
+    - title: 本科
+      institution: 华南理工大学，广东广州
+      year: 2018 - 2024
+      description:
+        - 2018-2019 工业设计
+        - 2019-2024 建筑学
+    - title: 研究生
+      institution: 同济大学，上海
+      year: 2025 - 2027
+      description:
+        - 建筑学
+    - title: 交换生
+      institution: 柏林工业大学，德国柏林
+      year: 2025.10-2026.3
+      description:
+        - 城市设计
+  
+      
+
+- title: 工作经历 Experience
+  type: time_table
+  contents: 
+    - title: 能耗节能中心实习生
+      institution: 中建研科技股份有限公司，上海
+      year: 2025.5-2025.9
+      description:
+        - 以上海各片区城市建设数据为基础，使用 GIS 平台进行空间落位，生成问题地图;
+        - 综合片区数据、政府规划文件、网络资讯等，综合分析片区发展问题，生成城市体检报告;
+        - 结合产业园文件，参考生态城指标评价表，进行上海“绿色生态城”项目评价及报告文本。
+    
+    - title: 设计管理实习生
+      institution: 广州万科永庆坊项目部，广东广州
+      year: 2023.9-2023.11
+      description:
+        - 参与永庆坊泊寓及滨水商业区产品策划，负责向设计单位传达设计定位及意向;
+        - 对接永庆坊历史街区商铺设计，与商家沟通协调室内设计方案，使之符合街区整体调性;
+        - 协助编写《永庆坊商家立面设计导则》，负责内容梳理与排版工作。
+
+    - title: 设计实习生
+      institution: 华南理工大学建筑设计研究院-何镜堂院士工作室，广东广州
+      year: 2022.11-2023.1  
+      description:
+        - 负责川藏公路沿线装配式度假酒店项目方案设计;
+        - 协助施工单位进行方案深化，完成施工图设计。
+
+
+- title: 项目 Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: 竞赛获奖 Honors and Awards
+  type: time_table
+  contents:
+    - year: 2025.6
+      items:
+        - 建筑技艺 “大师评图” 优胜奖 / 个人
+    - year: 2025.4
+      items:
+        - 圣戈班国际大学生竞赛国内赛段 三等奖 / 团队 队员
+    - year: 2024.12
+      items:
+        - 同济设计III课程优秀作业 / 个人
+    - year: 2023.06
+      items:
+        - “海城交界”——亚洲弹性设计竞赛 气候适应城市设计奖 / 团队 队员
+    - year: 2022.10
+      items:
+        - 雄安新区电力能源设施融入式设计竞赛 创新奖 / 团队 队长
+    - year: 2021.9
+      items:
+        - Active House广纸煤仓工业遗产可持续改造 二等奖 / 团队 队员
+
+- title: 技能 Skills
+  type: list
+  contents:
+    - 计算机能力:掌握Python语言、具备Excel数据透视表和MySQL数据分析基础;
+    - 设计能力：熟练使用 Sketchup、Rhino、Grasshopper等建模工具，熟练使用Photoshop、Indesign、illustrator 等设计软件;

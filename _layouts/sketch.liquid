@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article class="post sketch">
+  <header>
+    <h1>{{ page.title }}</h1>
+    <p class="meta">{{ page.date | date: "%Y-%m-%d" }}</p>
+  </header>
+  
+  <div class="sketch-content">
+    {{ content }}
+  </div>
+  
+  {% if page.gallery %}
+  <div class="gallery">
+    {% for img in page.gallery %}
+      <img src="{{ img | relative_url }}" alt="gallery image">
+    {% endfor %}
+  </div>
+  {% endif %}
+</article>
