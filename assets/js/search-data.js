@@ -406,6 +406,11 @@ ninja.data = [{
           description: "造纸厂的新生",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-纸间迹忆",
+          title: '纸间迹忆',
+          description: "造纸厂的新生",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{
         id: 'social-cv',
         title: 'CV',
