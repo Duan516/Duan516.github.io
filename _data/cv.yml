@@ -13,13 +13,13 @@
   contents:
     - title: 本科
       institution: 华南理工大学，广东广州
-      year: 2018 - 2024
+      year: 2018.9 - 2024.6
       description:
-        - 2018-2019 工业设计
-        - 2019-2024 建筑学
+        - 2018.9-2019.6 工业设计
+        - 2019.9-2024.6 建筑学
     - title: 研究生
       institution: 同济大学，上海
-      year: 2025 - 2027
+      year: 2024.9 - 2027.6
       description:
         - 建筑学
     - title: 交换生
