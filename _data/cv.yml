@@ -56,13 +56,34 @@
         - 负责川藏公路沿线装配式度假酒店项目方案设计;
         - 协助施工单位进行方案深化，完成施工图设计。
 
-
-- title: 项目 Projects
+- title: 社会实践 Social Practice
   type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+  contents: 
+    - title: 清华大学乡村振兴工作站-香港沙头角支队-学术负责人
+      year: 2025.8
+      description:
+        - 前往香港沙头角荔枝窝村进行社会实践
+        - 以第一作者身份完成《后生产主义视角下港深边境村落生态-农业-文化融合发展研究一以香港荔枝窝村为例》，获清华大学优秀调研报告
+        - 以第一作者身份完成论文《Ecological–Agricultural–Cultural Integration of Border Villages from a Post-Productivist Perspective---A Case Study of Lai Chi Wo Village, Hong Kong》入选香港中文大学与清华大学主办 2025乡村振兴研讨会会议论文集，进行论文宣读。
+
+
+    
+    - title: 设计管理实习生
+      institution: 广州万科永庆坊项目部，广东广州
+      year: 2023.9-2023.11
+      description:
+        - 参与永庆坊泊寓及滨水商业区产品策划，负责向设计单位传达设计定位及意向;
+        - 对接永庆坊历史街区商铺设计，与商家沟通协调室内设计方案，使之符合街区整体调性;
+        - 协助编写《永庆坊商家立面设计导则》，负责内容梳理与排版工作。
+
+    - title: 设计实习生
+      institution: 华南理工大学建筑设计研究院-何镜堂院士工作室，广东广州
+      year: 2022.11-2023.1  
+      description:
+        - 负责川藏公路沿线装配式度假酒店项目方案设计;
+        - 协助施工单位进行方案深化，完成施工图设计。
+
+
 
 - title: 竞赛获奖 Honors and Awards
   type: time_table
