@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 纸间迹忆
-description: 造纸厂的新生
+title: Infinite Village
+description: 循环工艺，链接工坊、村庄与城市
 img: assets/img/projects/法国-封面.png
 importance: 4
 category: work
