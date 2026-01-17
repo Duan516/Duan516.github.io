@@ -406,9 +406,9 @@ ninja.data = [{
           description: "造纸厂的新生",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-纸间迹忆",
-          title: '纸间迹忆',
-          description: "造纸厂的新生",
+            },},{id: "projects-infinite-village",
+          title: 'Infinite Village',
+          description: "循环工艺，链接工坊、村庄与城市",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{
